@@ -9,6 +9,7 @@ def totarea(n1, n2):
     print('-=' * 30)
 
 
+# programa principal
 titulo('Controle de terreno')
 totarea(
     n1=float(input('Largura (m): ')),
