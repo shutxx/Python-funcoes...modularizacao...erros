@@ -5,7 +5,7 @@ def titulo(txt):
 def totarea(n1, n2):
     res = n1 * n2
     print('-=' * 30)
-    print(f'A área total de um terreno {n1} x {n2} é de {res}')
+    print(f'A área total de um terreno {n1} x {n2} é de {res}m²')
     print('-=' * 30)
 
 
